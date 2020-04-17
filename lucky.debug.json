@@ -1,0 +1,121 @@
+{
+    "avm": {
+        "name": "lucky",
+        "hash": "48f3791db77fe0156f3fe6609822ab47"
+    },
+    "compiler": {
+        "name": "neo-boa",
+        "version": "0.5.6"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "/root/smartcontracts/lucky.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 8,
+            "end": 37,
+            "file": 1,
+            "method": "Main",
+            "line": 3,
+            "file_line_no": 16
+        },
+        {
+            "start": 38,
+            "end": 46,
+            "file": 1,
+            "method": "Main",
+            "line": 7,
+            "file_line_no": 20
+        },
+        {
+            "start": 47,
+            "end": 80,
+            "file": 1,
+            "method": "Main",
+            "line": 8,
+            "file_line_no": 21
+        },
+        {
+            "start": 81,
+            "end": 89,
+            "file": 1,
+            "method": "Main",
+            "line": 10,
+            "file_line_no": 23
+        },
+        {
+            "start": 90,
+            "end": 118,
+            "file": 1,
+            "method": "Main",
+            "line": 11,
+            "file_line_no": 24
+        },
+        {
+            "start": 119,
+            "end": 134,
+            "file": 1,
+            "method": "Main",
+            "line": 13,
+            "file_line_no": 26
+        },
+        {
+            "start": 135,
+            "end": 142,
+            "file": 1,
+            "method": "Main",
+            "line": 14,
+            "file_line_no": 27
+        },
+        {
+            "start": 143,
+            "end": 147,
+            "file": 1,
+            "method": "Main",
+            "line": 15,
+            "file_line_no": 28
+        },
+        {
+            "start": 148,
+            "end": 154,
+            "file": 1,
+            "method": "addEntry",
+            "line": 17,
+            "file_line_no": 48
+        },
+        {
+            "start": 155,
+            "end": 203,
+            "file": 1,
+            "method": "addEntry",
+            "line": 2,
+            "file_line_no": 33
+        },
+        {
+            "start": 204,
+            "end": 233,
+            "file": 1,
+            "method": "addEntry",
+            "line": 3,
+            "file_line_no": 34
+        },
+        {
+            "start": 234,
+            "end": 253,
+            "file": 1,
+            "method": "addEntry",
+            "line": 6,
+            "file_line_no": 37
+        },
+        {
+            "start": 254,
+            "end": 257,
+            "file": 1,
+            "line": 7
+        }
+    ],
+    "breakpoints": []
+}
