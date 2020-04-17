@@ -1,0 +1,21 @@
+Signature 00
+
+Boolean 01
+
+Integer 02
+
+Hash160 03
+
+Hash256 04
+
+ByteArray 05
+
+PublicKey 06
+
+String 07
+
+Array 10
+
+InteropInterface f0
+
+Void ff

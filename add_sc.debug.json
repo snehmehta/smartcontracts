@@ -1,0 +1,89 @@
+{
+    "avm": {
+        "name": "add_sc",
+        "hash": "ba0b87ae039ba64beba45703bb3ffb9a"
+    },
+    "compiler": {
+        "name": "neo-boa",
+        "version": "0.5.6"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "/root/contracts/add_sc.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 18,
+            "end": 28,
+            "file": 1,
+            "method": "Main",
+            "line": 3,
+            "file_line_no": 3
+        },
+        {
+            "start": 29,
+            "end": 39,
+            "file": 1,
+            "method": "Main",
+            "line": 4,
+            "file_line_no": 4
+        },
+        {
+            "start": 40,
+            "end": 50,
+            "file": 1,
+            "method": "Main",
+            "line": 5,
+            "file_line_no": 5
+        },
+        {
+            "start": 51,
+            "end": 61,
+            "file": 1,
+            "method": "Main",
+            "line": 6,
+            "file_line_no": 6
+        },
+        {
+            "start": 62,
+            "end": 72,
+            "file": 1,
+            "method": "Main",
+            "line": 7,
+            "file_line_no": 7
+        },
+        {
+            "start": 73,
+            "end": 83,
+            "file": 1,
+            "method": "Main",
+            "line": 8,
+            "file_line_no": 8
+        },
+        {
+            "start": 84,
+            "end": 94,
+            "file": 1,
+            "method": "Main",
+            "line": 9,
+            "file_line_no": 9
+        },
+        {
+            "start": 95,
+            "end": 105,
+            "file": 1,
+            "method": "Main",
+            "line": 10,
+            "file_line_no": 10
+        },
+        {
+            "start": 106,
+            "end": 113,
+            "file": 1,
+            "line": 13
+        }
+    ],
+    "breakpoints": []
+}
